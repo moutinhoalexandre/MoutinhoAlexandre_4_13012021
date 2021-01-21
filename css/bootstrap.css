@@ -51,7 +51,8 @@ template {
 }
 
 a {
-    background-color: transparent
+    background-color: transparent;
+    padding: 17px;
 }
 
 a:active,
