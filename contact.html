@@ -8,9 +8,15 @@
     <link rel="shortcut icon" type="image/png" href="favicon.jpg">
 
     <!-- Title, description -->
+    		<!-- SEO : ajout du content à la meta description -->
+            <!-- SEO : balise obsolète <meta name="keywords"> supprimée -->
+            <!-- SEO : ajout titre -->
+            <!-- SEO : ajout d'une balise meta robots -->
     <title>La chouette agence, votre entreprise de webdesign à Lyon</title>
     <meta name="description"
         content="Découvrez la chouette agence : l'entreprise de web design à Lyon qui vous aide à devenir visibles et attractifs sur Internet">
+    <meta name="robots" content="index, follow">
+
 
     <link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -84,12 +90,11 @@
         <!-- bloc-6 END -->
 
         <!-- bloc-7 -->
-        <section class="bloc bgc-white l-bloc" id="bloc-7">
+        <article class="bloc bgc-white l-bloc" id="bloc-7">
             <div class="container bloc-lg">
                 <div class="row">
                     <div class="col-sm-6">
-                        <form id="form_1" novalidate success-msg="Your message has been sent."
-                            fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
+                        <form id="form_1">
                             <div class="form-group">
                                 <label for="name">
                                     Nom
@@ -131,7 +136,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </article>
         <!-- bloc-7 END -->
 
         <!-- ScrollToTop Button -->
