@@ -4,6 +4,7 @@
 In this scenario, I have to optimize an existing website in terms of SEO, accessibility, but also page loading performance.
 
 [Before modifications GitHuB Pages](https://moutinhoalexandre.github.io/MoutinhoAlexandre_4_13012021/old/Starting_website/index.html)
+
 [After modifications GitHuB Pages](https://moutinhoalexandre.github.io/MoutinhoAlexandre_4_13012021/index.html)
 
 ## Specifications
